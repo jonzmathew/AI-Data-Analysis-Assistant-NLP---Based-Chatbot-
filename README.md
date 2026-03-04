@@ -84,13 +84,6 @@ Run regression between advertising spend and sales
 
 * The AI assistant will automatically identify the analysis type and generate results.
 
-📂 Project Structure
-
-AI-Data-Analysis-Assistant
-│
-├── AI Data Analyst Revised.ipynb
-├── dataset.csv
-├── README.md
 
 ⚙ Installation
 
