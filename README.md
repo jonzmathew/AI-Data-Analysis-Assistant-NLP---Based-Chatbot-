@@ -91,10 +91,10 @@ Clone the repository
 
 git clone https://github.com/yourusername/AI-Data-Analysis-Assistant.git
 
-Navigate to the project folder: 
+Navigate to the project folder : 
 AI-Data-Analysis-Assistant
 
-Install required libraries: 
+Install required libraries : 
 pip install pandas numpy scikit-learn transformers spacy gradio
 
 Run the notebook or Python script.
@@ -104,6 +104,7 @@ Run the notebook or Python script.
 Start the Gradio interface and open the local web link generated.
 
 Upload a dataset and start interacting with it using natural language prompts.
+
 
 🎯 Learning Outcomes
 
@@ -117,6 +118,7 @@ Automating statistical analysis workflows
 
 Developing interactive ML applications
 
+
 📈 Future Improvements
 
 Add data visualization (Matplotlib / Plotly)
@@ -127,15 +129,18 @@ Implement LLM-based query understanding
 
 Deploy the application on Hugging Face Spaces or Streamlit Cloud
 
+
 👨‍💻 Author
 
 Johns M
 
 Aspiring Data Analyst / Data Scientist passionate about AI, data analytics, and machine learning.
 
+
 ⭐ If you like this project, consider starring the repository.
 
-✅ If you want, I can also give you 3 things that will make this project look MUCH more impressive to recruiters, like:
+
+✅ If you want, I can also give you 3 things that will make this project look MUCH more impressive, like:
 
 Adding visualizations
 
