@@ -91,10 +91,10 @@ Clone the repository
 
 git clone https://github.com/yourusername/AI-Data-Analysis-Assistant.git
 
-Navigate to the project folder
-cd AI-Data-Analysis-Assistant
+Navigate to the project folder: 
+AI-Data-Analysis-Assistant
 
-Install required libraries
+Install required libraries: 
 pip install pandas numpy scikit-learn transformers spacy gradio
 
 Run the notebook or Python script.
