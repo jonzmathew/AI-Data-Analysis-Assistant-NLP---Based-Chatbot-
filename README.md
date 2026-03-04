@@ -76,9 +76,9 @@ Linear Regression
 
 Example prompts a user can enter:
 
-Show descriptive statistics of the dataset, 
+Show descriptive statistics of the dataset
 
-Find correlation between age and income, 
+Find correlation between age and income 
 
 Run regression between advertising spend and sales
 
