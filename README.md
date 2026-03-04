@@ -1,12 +1,14 @@
 # AI-Data-Analysis-Assistant-NLP---Based-Chatbot-
 AI Data Analysis Assistant built with Python, Hugging Face Transformers, SpaCy, and Gradio. This tool allows users to upload a CSV dataset and perform analysis (descriptive statistics, correlation, and regression) using natural language prompts. The system automatically classifies the user query, extracts variables from prompt and  give analysis.
 
+
 🤖 AI Data Analysis Assistant
 
 An AI-powered data analysis tool that allows users to analyze datasets using natural language prompts.
 The system automatically identifies the type of analysis required and performs statistical operations such as descriptive statistics, correlation analysis, and regression modeling.
 
 Users simply upload a CSV dataset and ask a question, and the AI assistant processes the request and returns the analysis results.
+
 
 🚀 Project Overview
 
@@ -15,6 +17,7 @@ Traditional data analysis requires writing queries or code to explore datasets. 
 The system uses Natural Language Processing (NLP) to understand user prompts, extract relevant variables, determine the appropriate statistical method, and execute the analysis automatically.
 
 This makes data analysis more accessible for users who may not have strong programming or statistical backgrounds.
+
 
 ✨ Features
 
@@ -25,6 +28,7 @@ This makes data analysis more accessible for users who may not have strong progr
 ✔ Natural Language Prompt Based Analysis
 ✔ Automatic analysis type detection using AI
 ✔ Interactive web interface using Gradio
+
 
 🧠 How It Works
 
@@ -43,6 +47,7 @@ SpaCy NLP extracts the relevant variables from the prompt.
 The requested statistical analysis is executed using Pandas and Scikit-learn.
 
 Results are displayed through a Gradio interface.
+
 
 🛠 Tech Stack
 
@@ -72,6 +77,7 @@ Natural Language Processing
 
 Linear Regression
 
+
 📊 Example Use Cases
 
 Example prompts a user can enter:
@@ -98,6 +104,7 @@ Install required libraries :
 pip install pandas numpy scikit-learn transformers spacy gradio
 
 Run the notebook or Python script.
+
 
 🖥 Running the Application
 
@@ -130,6 +137,7 @@ Implement LLM-based query understanding
 Deploy the application on Hugging Face Spaces or Streamlit Cloud
 
 
+
 👨‍💻 Author
 
 Johns M
@@ -137,7 +145,9 @@ Johns M
 Aspiring Data Analyst / Data Scientist passionate about AI, data analytics, and machine learning.
 
 
+
 ⭐ If you like this project, consider starring the repository.
+
 
 
 ✅ If you want, I can also give you 3 things that will make this project look MUCH more impressive, like:
