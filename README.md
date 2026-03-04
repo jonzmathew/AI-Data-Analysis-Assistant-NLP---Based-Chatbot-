@@ -82,9 +82,10 @@ Find correlation between age and income
 
 Run regression between advertising spend and sales
 
-The AI assistant will automatically identify the analysis type and generate results.
+* The AI assistant will automatically identify the analysis type and generate results.
 
 📂 Project Structure
+
 AI-Data-Analysis-Assistant
 │
 ├── AI Data Analyst Revised.ipynb
@@ -94,6 +95,7 @@ AI-Data-Analysis-Assistant
 ⚙ Installation
 
 Clone the repository
+
 git clone https://github.com/yourusername/AI-Data-Analysis-Assistant.git
 
 Navigate to the project folder
