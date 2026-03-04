@@ -75,8 +75,11 @@ Linear Regression
 📊 Example Use Cases
 
 Example prompts a user can enter:
+
 Show descriptive statistics of the dataset, 
+
 Find correlation between age and income, 
+
 Run regression between advertising spend and sales
 
 The AI assistant will automatically identify the analysis type and generate results.
