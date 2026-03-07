@@ -91,6 +91,11 @@ Run regression between advertising spend and sales
 * The AI assistant will automatically identify the analysis type and generate results.
 
 
+The User Interface look like this:
+<img width="1907" height="900" alt="Screenshot 2026-03-07 191517" src="https://github.com/user-attachments/assets/d1adc8c2-1f82-47a0-bda3-7132a3985c1a" />
+
+
+
 ⚙ Installation
 
 Clone the repository
